@@ -1,0 +1,22 @@
+{
+    "short_name": "tet",
+    "name": "tu espacio tecnológico",
+    "icons": [
+      {
+        "src": "./images/LogotetC.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "./images/LogotetC.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "./images/LogotetC.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "index.html?launcher=true"
+  }
